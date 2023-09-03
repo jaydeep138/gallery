@@ -11,14 +11,6 @@
     {
       "width": 4000,
       "height": 3000,
-      "path": "./photos/Imagica/PXL_20221111_155131750.PORTRAIT.jpg",
-      "compressed_path": "./photos/Imagica/PXL_20221111_155131750.PORTRAIT.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Imagica/PXL_20221111_155131750.PORTRAIT.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 3000,
       "path": "./photos/Imagica/PXL_20221111_160046996.PORTRAIT.jpg",
       "compressed_path": "./photos/Imagica/PXL_20221111_160046996.PORTRAIT.min.jpg",
       "compressed": false,
@@ -367,14 +359,6 @@
       "placeholder_path": "./photos/Random clicks/IMG_20220427_141729.placeholder.jpg"
     },
     {
-      "width": 2695,
-      "height": 3796,
-      "path": "./photos/Random clicks/IMG_20230819_153320.jpg",
-      "compressed_path": "./photos/Random clicks/IMG_20230819_153320.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Random clicks/IMG_20230819_153320.placeholder.jpg"
-    },
-    {
       "width": 3000,
       "height": 4000,
       "path": "./photos/Random clicks/PXL_20220423_192101703.jpg",
@@ -546,6 +530,14 @@
     }
   ],
   "The Metropolitan Museum of Art": [
+    {
+      "width": 2695,
+      "height": 3796,
+      "path": "./photos/The Metropolitan Museum of Art/IMG_20230819_153320.jpg",
+      "compressed_path": "./photos/The Metropolitan Museum of Art/IMG_20230819_153320.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/The Metropolitan Museum of Art/IMG_20230819_153320.placeholder.jpg"
+    },
     {
       "width": 3000,
       "height": 4000,
