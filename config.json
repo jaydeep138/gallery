@@ -527,6 +527,14 @@
       "compressed_path": "./photos/Statue Of Unity/DC81ACA2-1991-44E1-9803-FE24A1FF2DAC.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Statue Of Unity/DC81ACA2-1991-44E1-9803-FE24A1FF2DAC.placeholder.jpeg"
+    },
+    {
+      "width": 3000,
+      "height": 2250,
+      "path": "./photos/Statue Of Unity/GOPR6210.jpg",
+      "compressed_path": "./photos/Statue Of Unity/GOPR6210.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Statue Of Unity/GOPR6210.placeholder.jpg"
     }
   ],
   "The Metropolitan Museum of Art": [
