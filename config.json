@@ -51,14 +51,6 @@
       "placeholder_path": "./photos/Macro/20200807_174237.placeholder.jpg"
     },
     {
-      "width": 4128,
-      "height": 2322,
-      "path": "./photos/Macro/20201020_213719.jpg",
-      "compressed_path": "./photos/Macro/20201020_213719.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Macro/20201020_213719.placeholder.jpg"
-    },
-    {
       "width": 1944,
       "height": 2592,
       "path": "./photos/Macro/IMG_20220220_184202.jpg",
@@ -179,6 +171,14 @@
       "compressed_path": "./photos/NY/1692746012277.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/NY/1692746012277.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 4000,
+      "path": "./photos/NY/1694922413717.jpg",
+      "compressed_path": "./photos/NY/1694922413717.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/NY/1694922413717.placeholder.jpg"
     },
     {
       "width": 4000,
@@ -315,6 +315,14 @@
       "compressed_path": "./photos/NY/PXL_20230829_190406204.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/NY/PXL_20230829_190406204.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos/NY/WhatsApp Image 2023-09-18 at 22.01.03.jpeg",
+      "compressed_path": "./photos/NY/WhatsApp Image 2023-09-18 at 22.01.03.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/NY/WhatsApp Image 2023-09-18 at 22.01.03.placeholder.jpeg"
     }
   ],
   "Random clicks": [
@@ -513,8 +521,8 @@
       "placeholder_path": "./photos/Statue Of Unity/106DCC7F-3DD6-44CD-9F68-5EF3EE8F928F.placeholder.jpg"
     },
     {
-      "width": 4032,
-      "height": 3024,
+      "width": 2831,
+      "height": 3775,
       "path": "./photos/Statue Of Unity/35E388D3-B2D2-44F2-A3ED-359741D7395C.jpeg",
       "compressed_path": "./photos/Statue Of Unity/35E388D3-B2D2-44F2-A3ED-359741D7395C.min.jpeg",
       "compressed": false,
@@ -531,10 +539,10 @@
     {
       "width": 3000,
       "height": 2250,
-      "path": "./photos/Statue Of Unity/GOPR6210.jpg",
-      "compressed_path": "./photos/Statue Of Unity/GOPR6210.min.jpg",
+      "path": "./photos/Statue Of Unity/GOPR6210.jpeg",
+      "compressed_path": "./photos/Statue Of Unity/GOPR6210.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Statue Of Unity/GOPR6210.placeholder.jpg"
+      "placeholder_path": "./photos/Statue Of Unity/GOPR6210.placeholder.jpeg"
     }
   ],
   "The Metropolitan Museum of Art": [
